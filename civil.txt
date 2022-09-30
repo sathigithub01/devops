@@ -13,4 +13,5 @@ azure
 ansible
 docker
 google cloud
-ibm cloud
+ibm cloud 
+wipro
